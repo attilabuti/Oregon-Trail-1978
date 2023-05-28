@@ -1,5 +1,7 @@
 # Oregon Trail (1978)
 
+Oregon Trail as printed in the May-June 1978 issue of Creative Computing Magazine.
+
 ```basic
 10 REM PROGRAM NAME - OREGON        VERSION:01/01/78
 20 REM ORIGINAL PROGRAMMING BY BILL HEINEMANN - 1971
